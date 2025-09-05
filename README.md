@@ -12,11 +12,12 @@
 
 ## ✨ What you'll find here:
 
-- 🧩 Projects I'm building or contributing to  
-- 🧠 Learnings from real work challenges—debugging, optimization, and automation  
-- 💬 Insights from navigating the data-driven corporate world  
+- 🧩 Projects built using my skills in SQL, Power BI, Excel, and Python  
+- 📊 Dashboards, reports, and automations that turn data into insights  
+- 🐍 Python notebooks on data analysis, statistics, and visualization (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🧠 Learnings on advanced SQL (Window Functions, CTEs) and analytics problem-solving  
+- 🚀 Continuous practice work to sharpen my data storytelling and decision-making skills  
 
----
 
 ## 📱 Connect with me:
 
