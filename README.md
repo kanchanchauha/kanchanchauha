@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI and Insight Generation-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data Analytics-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
 
 ---
